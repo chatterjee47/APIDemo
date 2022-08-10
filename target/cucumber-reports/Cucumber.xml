@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="2" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0">
+<testcase classname="Verify OrderId" name="User is redirected to federated provider" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User enters end points................................................undefined
+Then User enters the Order ID "data" and rownumber 0........................undefined
+]]></failure>
+</testcase>
+<testcase classname="Verify OrderId" name="User is redirected to federated provider 2" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User enters end points................................................undefined
+Then User enters the Order ID "data" and rownumber 1........................undefined
+]]></failure>
+</testcase>
+</testsuite>
